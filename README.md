@@ -10,7 +10,7 @@
 ![SSH](https://img.shields.io/badge/SSH-%E6%8A%80%E6%9C%AF-red)
 ![Servlet](https://img.shields.io/badge/Servlet-%E6%8A%80%E6%9C%AF-red)
  
-计算机毕业设计指南，为计算机相关专业学生提供程序、开题报告、论文分析、以及答辩等相关资源，并且全网络唯一提供所有源码的功能讲解视频。
+🎓计算机毕业设计指南，为计算机相关专业学生提供程序、开题报告、论文分析、以及答辩等相关资源，并且全网络唯一提供所有源码的功能讲解视频。
 
 [官方网站](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [码云](https://www.maotouyingcc.com/)
 
