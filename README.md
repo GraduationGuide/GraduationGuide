@@ -2,7 +2,7 @@
 
 =========================
 
-![计算机毕业设计](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
+![计算机毕业设计](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97-V1.0-blue)
  
 计算机毕业设计指南，为计算机相关专业学生提供程序、开题报告、论文分析、以及答辩等相关资源，并且全网络唯一提供所有源码的功能讲解视频。
 
