@@ -1,6 +1,5 @@
 # 计算机毕业设计指南
 
-=========================
 
 ![计算机毕业设计](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97-V1.0-blue)
  
