@@ -18,15 +18,9 @@
 
 
 
-## Spring Boot 2.0
+## 精品代码
 
-**[Spring Boot 2.0 最全使用教程](https://github.com/ityouknow/spring-boot-leaning)**
-
-**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 2.0 实战开源项目）**
-
-**精品代码**
-
-  -[基于SSM的购物商城系统(含参考论文开题报告PPT)](https://www.maotouyingcc.com/bishe/4745)  
+-[基于SSM的购物商城系统(含参考论文开题报告PPT)](https://www.maotouyingcc.com/bishe/4745)  
 -[基于uniapp的疫情疫苗预约小程序(含管理端有开题报告)](https://www.maotouyingcc.com/bishe/4716)  
 -[基于Java的新闻发布系统(含开题报告,参考论文,ppt)](https://www.maotouyingcc.com/bishe/4650)  
 -[基于Java的敬老院管理系统(含参考论文ppt)](https://www.maotouyingcc.com/bishe/4627)  
