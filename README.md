@@ -16,6 +16,14 @@
 
 关注后，回复：**百套源码** 获取100套计算机毕业设计，可以直接学习了解。
 
+## 经验必读
+
+- [计算机毕业设计【定做/成品】疑问解答_专业源码服务](https://www.maotouyingcc.com/bishe/290)  
+- [必看！为什么毕业设计要早做准备？截图证明](https://www.maotouyingcc.com/bishe/4393)  
+- [好消息：学习资源分享群，你值得进入](https://www.maotouyingcc.com/bishe/4196)  
+- [计算机专业毕设太难做不出来怎么办？](https://www.maotouyingcc.com/bishe/3018)  
+- [毕业论文写作技巧【精华总结】](https://www.maotouyingcc.com/bishe/1801)  
+- [毕业设计防骗指南](https://www.maotouyingcc.com/bishe/1489)  
 
 
 ## 精品代码
