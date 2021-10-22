@@ -5,7 +5,7 @@
 ![技术教程](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B-%E7%B1%BB%E5%88%AB-green)
 ![Java](https://img.shields.io/badge/Java-%E7%B1%BB%E5%88%AB-green)
 ![小程序](https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E7%B1%BB%E5%88%AB-green)
-![SpringBoot](hhttps://img.shields.io/badge/SpringBoot-%E6%8A%80%E6%9C%AF-red)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%E6%8A%80%E6%9C%AF-red)
 ![SSM](https://img.shields.io/badge/SSM-%E6%8A%80%E6%9C%AF-red)
 ![SSH](https://img.shields.io/badge/SSH-%E6%8A%80%E6%9C%AF-red)
 ![Servlet](https://img.shields.io/badge/Servlet-%E6%8A%80%E6%9C%AF-red)
