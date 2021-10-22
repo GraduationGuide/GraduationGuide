@@ -18,7 +18,7 @@
 
 👉 推荐 [在线阅读](https://www.maotouyingcc.com)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
-[官方网站](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [QQ学习分享群](https://www.maotouyingcc.com/gonggao/4196/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [码云](https://www.maotouyingcc.com/)
+[官方网站](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [QQ学习分享群](https://www.maotouyingcc.com/gonggao/4196/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [码云](https://gitee.com/wangjunjun826/GraduationGuide)
 
 ---
 
