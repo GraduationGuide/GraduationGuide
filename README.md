@@ -14,9 +14,9 @@
 
 🎓计算机毕业设计指南，为计算机相关专业毕业生提供源码、开题报告、论文分析、以及答辩等相关资源，并且全网唯一提供所有源码的典型功能讲解视频，可以帮助远程部署成功，有代码答疑的售后服务。
 
-👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://zhuanlan.zhihu.com/p/379041500)  （原创不易，欢迎点赞，精简版学习路线正在路上），这是 2021 最新最完善的 Java 学习路线！另外，[我的朋友整理了一份消息队列常见面试题，需要的小伙伴可以点击领取！](http://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100025985&idx=1&sn=681af486050fabbeea27fa1c3bec5d65&chksm=4ea1e94a79d6605c72f280b5268100c6e96c6ab1dc9a0178b33e25a72ff5f4eac3dcb56fa44f#rd)。
+👉 如果你想了解毕业设计期间的时间规划，或者选题、代码编写以及论文写作相关的问题，请看 [计算机专业毕设太难做不出来怎么办？]( https://www.maotouyingcc.com/index/3018/)  （原创不易，欢迎点赞），这是关于毕业设计流程的全过程解析！另外，如果你需要获取下方任何源码或者咨询相关毕业设计任何问题，都可以点击这里查看。
 
-👉 推荐 [在线阅读](https://snailclimb.gitee.io/javaguide)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
+👉 推荐 [在线阅读](https://www.maotouyingcc.com)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
 [官方网站](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [码云](https://www.maotouyingcc.com/)
 
