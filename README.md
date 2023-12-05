@@ -18,11 +18,11 @@
 
 👉 推荐 [在线阅读](https://www.maotouyingcc.com)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
-[官网](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [QQ学习分享群](https://www.maotouyingcc.com/gonggao/4196/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [码云](https://gitee.com/wangjunjun826/GraduationGuide)
+[官网](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [QQ学习分享群](https://www.maotouyingcc.com/gonggao/4196/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [CSDN](https://blog.csdn.net/mtyedu)
 
 ---
 
-我们下面分享的系统都是包含**源码+数据库+演示视频+典型功能代码讲解视频+导入视频+远程配置成功+售后答疑**的。如果需要获取源码(有偿)，或者你有其他任何计算机毕业设计相关的疑问，都可以和我交流，**我的私人微信是：mtyeducation**，或者扫描下方微信:
+我们下面分享的系统都是包含**源码+数据库+演示视频+典型功能代码讲解视频+导入视频+远程配置成功+售后答疑**的。如果需要获取源码(有偿)，或者你有其他任何计算机毕业设计相关的疑问，都可以和我交流，**微信：mtyeducation**，或者扫描下方微信:
 
 ![](https://www.maotouyingcc.com/wp-content/uploads/2020/10/微信图片_20200726083424.jpg)
 
@@ -36,7 +36,9 @@
 - [计算机专业毕设太难做不出来怎么办？](https://www.maotouyingcc.com/bishe/3018)  必看 👍
 - [毕业论文写作技巧【精华总结】](https://www.maotouyingcc.com/bishe/1801)  必看 👍
 - [毕业设计防骗指南](https://www.maotouyingcc.com/bishe/1489)  必看 👍
-
+- [计算机毕业设计之打造独一无二选题(https://www.maotouyingcc.com/must-read/7209)]
+- [基础差也能看懂的毕业设计代码讲解视频(https://www.maotouyingcc.com/must-read/7212)]
+- [计算机毕业设计能不能用成品？(https://www.maotouyingcc.com/must-read/5079)]
 
 ## 精品源码
 
