@@ -36,9 +36,9 @@
 - [计算机专业毕设太难做不出来怎么办？](https://www.maotouyingcc.com/bishe/3018)  必看 👍
 - [毕业论文写作技巧【精华总结】](https://www.maotouyingcc.com/bishe/1801)  必看 👍
 - [毕业设计防骗指南](https://www.maotouyingcc.com/bishe/1489)  必看 👍
-- [计算机毕业设计之打造独一无二选题(https://www.maotouyingcc.com/must-read/7209)]
-- [基础差也能看懂的毕业设计代码讲解视频(https://www.maotouyingcc.com/must-read/7212)]
-- [计算机毕业设计能不能用成品？(https://www.maotouyingcc.com/must-read/5079)]
+- [计算机毕业设计之打造独一无二选题](https://www.maotouyingcc.com/must-read/7209) 必看 👍
+- [基础差也能看懂的毕业设计代码讲解视频](https://www.maotouyingcc.com/must-read/7212) 必看 👍
+- [计算机毕业设计能不能用成品？](https://www.maotouyingcc.com/must-read/5079) 必看 👍
 
 ## 精品源码
 
