@@ -12,19 +12,19 @@
 
 ## 简介
 
-🎓计算机毕业设计指南，为计算机相关专业毕业生提供源码、开题报告、论文分析、以及答辩等相关资源，并且全网唯一提供所有源码的典型功能讲解视频，可以帮助远程部署成功，有代码答疑的售后服务。
+🎓计算机毕业设计指南，为计算机相关专业毕业生提供源码、代码讲解、开题报告、论文分析、以及答辩面试等相关资源，并且全网唯一提供所有源码的典型功能讲解视频，可以帮助远程部署成功，有代码答疑的售后服务。
 
 👉 如果你想了解毕业设计期间的时间规划，或者选题、代码编写以及论文写作相关的问题，请看 [计算机专业毕设太难做不出来怎么办？]( https://www.maotouyingcc.com/index/3018/)  （原创不易，欢迎点赞），这是关于毕业设计流程的全过程解析！另外，[如果你需要获取下方任何源码或者咨询相关毕业设计任何问题，都可以点击这里查看](https://www.maotouyingcc.com/index/290/)。
 
-👉 推荐 [在线阅读](https://www.maotouyingcc.com)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
+👉 推荐 [在线阅读](https://www.maotouyingcc.com/category/bishe)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
 [官网](https://www.maotouyingcc.com/) &nbsp;| &nbsp; [QQ学习分享群](https://www.maotouyingcc.com/gonggao/4196/) &nbsp;| &nbsp; [B站源码演示视频](https://space.bilibili.com/39564148) &nbsp;| &nbsp; [CSDN](https://blog.csdn.net/mtyedu)
 
 ---
 
-我们下面分享的系统都是包含**源码+数据库+演示视频+典型功能代码讲解视频+导入视频+远程配置成功+售后答疑**的。如果需要获取源码(有偿)，或者你有其他任何计算机毕业设计相关的疑问，都可以和我交流，**微信：mtyeducation**，或者扫描下方微信:
+我们下面分享的系统都是近两年比较流行的选题，并包含**源码+数据库+演示视频+典型功能代码讲解视频+导入视频+远程配置成功+售后答疑**。如果需要获取源码(有偿)，或者你有其他任何计算机毕业设计相关的疑问，都可以添加客服交流，**微信：mtyeducation**，或者扫描下方微信:
 
-![](https://www.maotouyingcc.com/wp-content/uploads/2020/10/微信图片_20200726083424.jpg)
+![](https://www.maotouyingcc.com/wp-content/uploads/2024/08/Snipaste_2024-08-07_10-22-22.png)
 
 另外本人整理了100套左右计算机毕业设计源码，关注后回复：**百套源码**，获取100套计算机毕业设计，可以直接学习使用。
 
@@ -42,8 +42,62 @@
 
 ## 精品源码
 
-所有都包含**源码+数据库+演示视频+典型功能代码讲解视频+导入视频+远程配置成功+售后答疑**，点击可查看详情
+所有都包含**源码+数据库+功能演示视频+典型功能代码讲解视频+导入部署视频+可远程配置+售后答疑**，点击可查看详情
 
+- [【带你学系列】基于springboot+vue的青年公寓系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10751)
+- [【最新原创】基于springboot的校园二手交易平台(含参考文档)](https://www.maotouyingcc.com/bishe/10847)
+- [【原创】基于springboot的暖暖午托管理系统(加功能版)](https://www.maotouyingcc.com/bishe/10843)
+- [【最新原创】基于协同过滤推荐算法的新闻门户网站(含参考文档)](https://www.maotouyingcc.com/bishe/10840)
+- [【最新原创】基于springboot医院药库管理系统(含参考文档)](https://www.maotouyingcc.com/bishe/10824)
+- [【最新原创】基于springboot的智慧养老系统(含参考文档)](https://www.maotouyingcc.com/bishe/10818)
+- [【最新原创】基于springboot+vue的长白山旅游系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10807)
+- [【最新原创】基于协同过滤算法+springboot+vue的旅游系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10797)
+- [【最新原创】基于springboot+vue的考试后台管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10785)
+- [【最新原创】基于springboot个人日志网站(含参考文档)](https://www.maotouyingcc.com/bishe/10770)
+- [【最新原创】基于springboot+vue的心理健康与预约系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10727)
+- [【最新原创】基于springboot+vue的高中成绩查询系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10716)
+- [【最新原创】基于uniapp的中医药小程序(含参考文档)](https://www.maotouyingcc.com/bishe/10698)
+- [基于协同过滤算法的电影推荐小程序(含参考文档)](https://www.maotouyingcc.com/bishe/10683)
+- [【最新原创】基于springboot+vue的华扬商城(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10666)
+- [【最新原创】基于springboot+vue的吉林旅游网(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10653)
+- [基于springboot+vue的漏洞管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10637)
+- [【原创】基于协同过滤算法+springboot+vue的重庆旅游网(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10618)
+- [基于springboot+vue的安达便利店加盟网站(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10600)
+- [基于uniapp的天燃气预约小程序(含参考文档)](https://www.maotouyingcc.com/bishe/10583)
+- [基于springboot+vue的电影院在线售票系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10562)
+- [【最新原创】基于springboot+vue的博物馆藏品系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10541)
+- [基于springboot+vue的线上旅游平台(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10521)
+- [基于springboot+vue的治安管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10503)
+- [基于node+vue的婚纱摄影网站(含参考文档)](https://www.maotouyingcc.com/bishe/10481)
+- [基于springboot+vue的古董拍卖网站(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10460)
+- [【最新原创】基于springboot校园赛事资讯系统(含参考文档)](https://www.maotouyingcc.com/bishe/10442)
+- [【最新原创】基于协同过滤推荐算法+springboot+vue的校园二手商城(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10422)
+- [【最新原创】基于springboot+vue的全国热门旅游景观可视化查询(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10393)
+- [基于springboot+vue的校园赛事资讯网站(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10303)
+- [基于springboot+vue的宠物领养系统(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10276)
+- [Spring拦截器原理总结](https://www.maotouyingcc.com/bishe/10271)
+- [基于springboot+vue的家政服务系统(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10248)
+- [基于springboot+vue的校园志愿者系统(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10222)
+- [【最新原创】基于springboot+vue的教材管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10206)
+- [基于springboot+vue的景区民宿预约系统(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10181)
+- [基于springboot+vue的点餐订餐系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10140)
+- [基于springboot+vue的秒杀商城(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/10120)
+- [基于springboot+vue的在线考试系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10095)
+- [基于springboot+vue的在线考试系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10090)
+- [基于springboot+vue的学生宿舍管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/10072)
+- [【最新原创】基于uniapp的商城小程序(含参考论文)](https://www.maotouyingcc.com/bishe/10015)
+- [【最新原创】基于springboot+vue的客户关系管理系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/9940)
+- [【最新原创】基于springboot+vue的旅游系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/9921)
+- [【最新原创】基于springboot小区疫情防控系统(含参考文档)](https://www.maotouyingcc.com/bishe/9907)
+- [【最新原创】基于springboot+vue的云南旅游网(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/9888)
+- [【最新原创】基于springboot+vue的华山旅游网(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/9868)
+- [【最新原创】基于springboot消防员招录系统(含参考文档)](https://www.maotouyingcc.com/bishe/9845)
+- [【最新原创】基于springboot+vue的大学生创新创业系统(前后端分离)(含参考文档)](https://www.maotouyingcc.com/bishe/9828)
+- [【最新原创】基于springboot+vue的重庆旅游网(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/9809)
+- [基于Java的酒店管理系统(含参考论文)](https://www.maotouyingcc.com/bishe/9786)
+- [基于SSM的社区志愿者招募系统(含参考论文)](https://www.maotouyingcc.com/bishe/9766)
+- [基于springboot+vue的大学生科创项目在线管理系统(含参考论文)](https://www.maotouyingcc.com/bishe/9747)
+- [基于springboot+vue的信息技术知识赛系统(前后端分离)(含参考论文)](https://www.maotouyingcc.com/bishe/9728)
 - [基于springboot+vue的毕业生实习与就业管理系统(含参考论文)](https://www.maotouyingcc.com/bishe/9715)
 - [基于springboot+vue的入校申报审批系统(含参考论文)](https://www.maotouyingcc.com/bishe/9699)
 - [基于springboot+vue的校园外卖服务系统(含参考论文)](https://www.maotouyingcc.com/bishe/9681)
